@@ -1,0 +1,6 @@
+@SSO_TEST_BACK_HostAddress = http://localhost:5185
+
+GET {{SSO_TEST_BACK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
